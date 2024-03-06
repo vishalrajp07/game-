@@ -19,7 +19,7 @@ Instructions for Use:
 
 Clone the repository to your local machine using Git.
 
-git clone https://github.com/your-username/snake-game-python.git
+git clone https://github.com/vishalrajp07/game-.git
 
 Navigate to the project directory.
 
